@@ -1,0 +1,9 @@
+package model;
+
+public enum CategoriaEvento {
+    EVENTOS_SOCIAIS,
+    EVENTOS_CULTURAIS,
+    EVENTOS_RELIGIOSOS,
+    EVENTOS_CORPORATIVOS,
+    EVENTOS_POLITICOS
+}
